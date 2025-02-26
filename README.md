@@ -110,7 +110,7 @@ java Example
 Output:
 ```
 This is a simple Java program.
-```.
+```
 
 
 ## ⚠ Important Notes
