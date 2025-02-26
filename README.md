@@ -94,25 +94,23 @@ Java is owned by Oracle, and more than 3 billion devices run Java.
 2. Run java -version in the terminal to check installation.
 
 ### 🚀 First Java Program
-java
-/*
-This is a simple Java program. Call this file "Example.java".
-*/
+```java
+/* Example.java */
 class Example {
-    // Your program begins with a call to main()
     public static void main(String args[]) {
         System.out.println("This is a simple Java program.");
     }
 }
-
-Save the code as 📂 Example.java, open Command Prompt, navigate to the directory where you saved your file, and type:
-
+```
+#### Running the program:
+```sh
 javac Example.java
 java Example
-
-Expected output:
-
+```
+Output:
+```
 This is a simple Java program.
+```.
 
 
 ## ⚠ Important Notes
